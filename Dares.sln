@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dares.Compras.UI", "Dares.Compras.UI\Dares.Compras.UI.csproj", "{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dares.Compras.Core", "Dares.Compras.Core\Dares.Compras.Core.csproj", "{0E5A01FB-493F-4888-A418-EF8050BCCA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dares.Compras.Entidades", "Dares.Compras.Entidades\Dares.Compras.Entidades.csproj", "{0C486721-EA1A-43B5-9D1F-B9A513A58E49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS", "CS", "{96236DB2-E08A-4446-BD33-97FBD41BEB5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VB", "VB", "{32B07750-1C47-4BA3-92B2-71F666A25977}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dares.Compras.CoreVB", "Dares.Compras.CoreVB\Dares.Compras.CoreVB.vbproj", "{B063C21E-477A-4299-A407-5E97A704D6E9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dares.Compras.EntidadesVB", "Dares.Compras.EntidadesVB\Dares.Compras.EntidadesVB.vbproj", "{9D30DE8E-C5A7-4013-97F2-10A3B4C13785}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dares.Compras.UIVB", "Dares.Compras.UIVB\Dares.Compras.UIVB.vbproj", "{9AE73892-D70B-4B7A-B315-27971AB2C192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5A01FB-493F-4888-A418-EF8050BCCA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5A01FB-493F-4888-A418-EF8050BCCA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5A01FB-493F-4888-A418-EF8050BCCA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5A01FB-493F-4888-A418-EF8050BCCA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C486721-EA1A-43B5-9D1F-B9A513A58E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C486721-EA1A-43B5-9D1F-B9A513A58E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C486721-EA1A-43B5-9D1F-B9A513A58E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C486721-EA1A-43B5-9D1F-B9A513A58E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B063C21E-477A-4299-A407-5E97A704D6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B063C21E-477A-4299-A407-5E97A704D6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B063C21E-477A-4299-A407-5E97A704D6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B063C21E-477A-4299-A407-5E97A704D6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D30DE8E-C5A7-4013-97F2-10A3B4C13785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D30DE8E-C5A7-4013-97F2-10A3B4C13785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D30DE8E-C5A7-4013-97F2-10A3B4C13785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D30DE8E-C5A7-4013-97F2-10A3B4C13785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE73892-D70B-4B7A-B315-27971AB2C192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE73892-D70B-4B7A-B315-27971AB2C192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE73892-D70B-4B7A-B315-27971AB2C192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE73892-D70B-4B7A-B315-27971AB2C192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E5A01FB-493F-4888-A418-EF8050BCCA8E} = {96236DB2-E08A-4446-BD33-97FBD41BEB5E}
+		{0C486721-EA1A-43B5-9D1F-B9A513A58E49} = {96236DB2-E08A-4446-BD33-97FBD41BEB5E}
+		{4CF50F02-EB0A-46EA-80A4-5FDBB4E4B8AB} = {96236DB2-E08A-4446-BD33-97FBD41BEB5E}
+		{B063C21E-477A-4299-A407-5E97A704D6E9} = {32B07750-1C47-4BA3-92B2-71F666A25977}
+		{9D30DE8E-C5A7-4013-97F2-10A3B4C13785} = {32B07750-1C47-4BA3-92B2-71F666A25977}
+		{9AE73892-D70B-4B7A-B315-27971AB2C192} = {32B07750-1C47-4BA3-92B2-71F666A25977}
+	EndGlobalSection
+EndGlobal
